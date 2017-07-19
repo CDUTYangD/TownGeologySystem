@@ -1,0 +1,14 @@
+F:\Projects\VS\Projects\TownGeologySystem\TownGeologySystem\bin\Debug\TownGeologySystem.exe.config
+F:\Projects\VS\Projects\TownGeologySystem\TownGeologySystem\bin\Debug\TownGeologySystem.exe
+F:\Projects\VS\Projects\TownGeologySystem\TownGeologySystem\bin\Debug\TownGeologySystem.pdb
+F:\Projects\VS\Projects\TownGeologySystem\TownGeologySystem\obj\Debug\TownGeologySystem.csprojResolveAssemblyReference.cache
+F:\Projects\VS\Projects\TownGeologySystem\TownGeologySystem\obj\Debug\TownGeologySystem.Properties.Resources.resources
+F:\Projects\VS\Projects\TownGeologySystem\TownGeologySystem\obj\Debug\TownGeologySystem.csproj.GenerateResource.Cache
+F:\Projects\VS\Projects\TownGeologySystem\TownGeologySystem\obj\Debug\TownGeologySystem.exe
+F:\Projects\VS\Projects\TownGeologySystem\TownGeologySystem\obj\Debug\TownGeologySystem.pdb
+F:\Projects\VS\Projects\TownGeologySystem\TownGeologySystem\bin\Debug\CSkin.dll
+F:\Projects\VS\Projects\TownGeologySystem\TownGeologySystem\bin\Debug\CSkin.xml
+F:\Projects\VS\Projects\TownGeologySystem\TownGeologySystem\obj\Debug\TownGeologySystem.MainForm.resources
+F:\Projects\VS\Projects\TownGeologySystem\TownGeologySystem\obj\Debug\AxInterop.esriControls.dll
+F:\Projects\VS\Projects\TownGeologySystem\TownGeologySystem\obj\Debug\TownGeologySystem.csproj.ResolveComReference.cache
+F:\Projects\VS\Projects\TownGeologySystem\TownGeologySystem\bin\Debug\AxInterop.esriControls.dll
